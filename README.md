@@ -8,7 +8,7 @@
 
 ## How to play
 
-- Pick a level and play. You can play all three, in any order. Missed a day? Past days stay open.
+- Pick a level and play. You can play all three, in any order. Missed a day? You can play any of the last 7 days.
 - Start typing a name or nickname and pick the player from the suggestions. You get **3 guesses**.
 - Stuck? There are **4 hints**: the arena, the season, the game, and a teammate. Each one costs 15 points.
 - The clock counts up. After 10 seconds you lose 1 point per second, and if you get it in under 10 seconds you get a +20 bonus. Each level is worth up to 120, so a full day is out of 360.
